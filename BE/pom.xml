@@ -50,7 +50,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>EmployeeRAPListManager</finalName>
+		<finalName>KafkuyManagerUI</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
